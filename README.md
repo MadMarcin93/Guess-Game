@@ -13,3 +13,4 @@ The program will pick a random number within a specified range.
 Enter your guesses one by one.
 The game will tell you if your guess is too high, too low, or correct.
 Keep guessing until you find the correct number!
+![Zrzut ekranu 2025-09-18 o 08 43 25](https://github.com/user-attachments/assets/64a8ac07-c4ca-40db-872f-198864fba655)
